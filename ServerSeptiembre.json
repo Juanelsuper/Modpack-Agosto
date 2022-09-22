@@ -1,0 +1,156 @@
+[ 
+	{ 
+		"name": "DungeonCrawl",
+		"url":"https://mediafiles.forgecdn.net/files/3875/588/DungeonCrawl-1.19-2.3.11.jar",
+		"checksum":"8048e7a6c167fc629aceff6a13f05ae0"
+	},
+    { 
+		"name": "Artifacts",
+		"url":"https://mediafiles.forgecdn.net/files/3984/185/artifacts-1.19.2-5.0.0.jar",
+		"checksum":"41abba7983cf2a23e86283c7ed32fafb"
+	},
+    { 
+		"name": "MrCrayfishFurniture",
+		"url":"https://mediafiles.forgecdn.net/files/3907/425/cfm-7.0.0-pre34-1.19.jar",
+		"checksum":"dcc6c094465f0820599e41880589995e"
+	},
+    { 
+		"name": "CosmeticArmor",
+		"url":"https://mediafiles.forgecdn.net/files/3920/646/CosmeticArmorReworked-1.19.2-v1.jar",
+		"checksum":"2b6a1cd8430f68679d25f76550c07249"
+	},
+    { 
+		"name": "Quark",
+		"url":"https://mediafiles.forgecdn.net/files/3961/436/Quark-3.3-371.jar",
+		"checksum":"0af9485837de8ffc57590cdddd0ebfa7"
+	},
+    { 
+		"name": "TameableBeasts",
+		"url":"https://mediafiles.forgecdn.net/files/3984/115/tameablebeasts-1.19.2-3.0.jar",
+		"checksum":"7cb7873fd2f79ac5673036cb2d7e0b4f"
+	},
+    { 
+		"name": "Gravestone",
+		"url":"https://mediafiles.forgecdn.net/files/3943/237/gravestone-1.19.2-1.0.1.jar",
+		"checksum":"ebf018d912ce949494b2b5cd31b52019"
+	},
+    { 
+		"name": "TwilightForest",
+		"url":"https://mediafiles.forgecdn.net/files/3995/805/twilightforest-1.19-4.2.1421-universal.jar",
+		"checksum":"8066d06c75d8517e15feb87b3b4704ad"
+	},
+    { 
+		"name": "Supplementaries",
+		"url":"https://mediafiles.forgecdn.net/files/3996/648/supplementaries-1.19.2-2.2.1.jar",
+		"checksum":"7d1be7c49bf6fe63c022dc365c8fec21"
+	},
+    { 
+		"name": "DungeonsArise",
+		"url":"https://mediafiles.forgecdn.net/files/3855/490/DungeonsArise-1.19-2.1.51-beta.jar",
+		"checksum":"0aa49ba1d953322c26ba4e52e2ca17d6"
+	},
+    { 
+		"name": "SecurityCraft",
+		"url":"https://mediafiles.forgecdn.net/files/3921/272/%5b1.19.2%5d+SecurityCraft+v1.9.3.1.jar",
+		"checksum":"d411ea4f2aff3e7f1c670dc7d14ab0aa"
+	},
+    { 
+		"name": "ChoiceTheoremsOverhauledVillage",
+		"url":"https://mediafiles.forgecdn.net/files/3949/810/ChoiceTheorem%27s-overhauled-village-v-3-1-1.jar",
+		"checksum":"a188c689d91cefd38d587d31f0945e18"
+	},
+    { 
+		"name": "MrCrayfishBackpacked",
+		"url":"https://mediafiles.forgecdn.net/files/3923/45/backpacked-2.1.10-1.19.jar",
+		"checksum":"a3f7104b728682205105e6ecf465edee"
+	},
+    { 
+		"name": "ImmersiveArmors",
+		"url":"https://mediafiles.forgecdn.net/files/3921/20/immersive_armors-1.4.2.jar",
+		"checksum":"ab834989b497a3b415edcc754a690e81"
+	},
+    { 
+		"name": "SavageRavage",
+		"url":"https://mediafiles.forgecdn.net/files/3926/547/savage_and_ravage-1.19-5.0.2.jar",
+		"checksum":"a29175b0f8a04670f3c750d7064bd919"
+	},
+    { 
+		"name": "Gobber",
+		"url":"https://mediafiles.forgecdn.net/files/3991/482/Gobber2-Forge-1.19.2-2.7.18.jar",
+		"checksum":"b81de3f46c7896b8391bcc7b7249d8b9"
+	},
+    { 
+		"name": "Beautify",
+		"url":"https://mediafiles.forgecdn.net/files/3971/678/Beautify+1.19.1-V.1.4.1+%5bForge%5d.jar",
+		"checksum":"5e45f2c4555023ed2d72b53d363a3c87"
+	},
+    { 
+		"name": "SimpleOres",
+		"url":"https://mediafiles.forgecdn.net/files/3923/37/SimpleOres2-1.19.2-5.1.0.0.jar",
+		"checksum":"e91b2d7930748412021bbd9d3dfbbbd2"
+	},
+    { 
+		"name": "SimpleCoreLib",
+		"url":"https://mediafiles.forgecdn.net/files/3962/859/SimpleCoreLib-1.19.2-5.1.0.2.jar",
+		"checksum":"fed10dd3a3bae3bcfb606bc37d624190"
+	},
+	{
+		"name": "TLSkins",
+		"url": "https://github.com/Juanelsuper/Modpack-Agosto/raw/main/tl_skin_cape_forge_1.19_1.19.2-1.27.jar",
+		"checksum": "56686563491e299a174dbf2c64d4e01a"
+	},
+	{
+		"name": "Blueprint",
+		"url": "https://mediafiles.forgecdn.net/files/3971/299/blueprint-1.19-6.0.7.jar",
+		"checksum": "b3659011afddc120a1db232e944b576d"
+	},
+	{
+		"name": "Curios",
+		"url": "https://mediafiles.forgecdn.net/files/3924/518/curios-forge-1.19.2-5.1.1.0.jar",
+		"checksum": "2039d08a7829ec0eb9b23806de267e35"
+	},
+	{
+		"name": "Autoreglib",
+		"url": "https://mediafiles.forgecdn.net/files/3857/246/AutoRegLib-1.8-54.jar",
+		"checksum": "c646069bc931050a21cd451f5776e8f5"
+	},
+	{
+		"name": "libx",
+		"url": "https://mediafiles.forgecdn.net/files/3955/287/LibX-1.19.2-4.2.5.jar",
+		"checksum": "ff6002e7712cb124a35464a4a18d336a"
+	},{
+		"name":"moonlight",
+		"url": "https://mediafiles.forgecdn.net/files/3983/892/moonlight-1.19.2-2.0.29.jar",
+		"checksum": "c0af8d5ca3dcb952433aec4f2d3e40fb"
+	},
+	{
+		"name": "GeckoLib",
+		"url":"https://mediafiles.forgecdn.net/files/3989/827/geckolib-forge-1.19-3.1.21.jar",
+		"checksum":"d64d9b1218cc3554a0663c8750dbfaa8"
+	},
+	{
+		"name": "JEI",
+		"url": "https://mediafiles.forgecdn.net/files/3969/39/jei-1.19.2-forge-11.3.0.262.jar",
+		"checksum": "8d89a587893263eb21ef3e5e106b3045"
+	},
+	{
+		"name": "XaerosMinimap",
+		"url": "https://mediafiles.forgecdn.net/files/3970/92/Xaeros_Minimap_22.14.1_Forge_1.19.1.jar",
+		"checksum": "47220040458ab5464e1069f29e0b48cb"
+	},
+	{
+		"name": "XaerosWorldMap",
+		"url": "https://mediafiles.forgecdn.net/files/3967/778/XaerosWorldMap_1.27.0_Forge_1.19.1.jar",
+		"checksum": "2b2cbe06c3fb0c972668ea204eae61a1"
+	},
+	{
+		"name": "Optifine",
+		"url": "https://github.com/Juanelsuper/Modpack-Agosto/raw/main/OptiFine_1.19.2_HD_U_H9.jar",
+		"checksum": "e7c4c8af14d48f4149ff2ed442eed05c"
+	},
+	{
+		"name": "QuickTeleports",
+		"url": "https://mediafiles.forgecdn.net/files/3827/287/quickteleports-1.19-1.2.0-forge.jar",
+		"checksum": "ee8ed5db6186618ad23ee9d782651b09"
+	}
+]
